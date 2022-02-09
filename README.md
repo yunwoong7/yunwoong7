@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Yunwoong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://yunwoong.tistory.com"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+am+new+to+the+programming+world;and+I+am+learning+new+things;"></a>
+  <a href="https://yunwoong.tistory.com"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Software+Developer;AI+%7C+RPA+%7C+Big+Data;Full+Stack+Engineer;Senior+QA;Project+Manager;Graphic+Designer;Always+learning+new+things"></a>
 </p>
 <hr/>
 
