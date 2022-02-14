@@ -7,16 +7,16 @@
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=yunwoong7&label=Profile%20views&color=0e75b6&style=plastic" alt="yunwoong7" /> </div>
 
 ## 🔥 Streak Stats
-<p align="center"><a href="https://github.com/yunwoong7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yunwoong7&theme=algolia" alt="yunwoong7"/></a></p>
+<p align="center"><a href="https://github.com/yunwoong7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yunwoong7&theme=dark" alt="yunwoong7"/></a></p>
 
 ## 💻 GitHub Profile Stats:
 
   <br/>
   <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yunwoong7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yunwoong7&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yunwoong7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yunwoong7&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
 <br/><br/>
   &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yunwoong7&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yunwoong7" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yunwoong7&show_icons=true&locale=en&layout=compact&theme=dark" alt="yunwoong7" height="192px"/>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
