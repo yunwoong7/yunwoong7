@@ -7,7 +7,7 @@
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=yunwoong7&label=Profile%20views&color=0e75b6&style=plastic" alt="yunwoong7" /> </div>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yunwoong7&theme=algolia" alt="yunwoong7"  /></p>
+<p align="center"><a href="https://github.com/yunwoong7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yunwoong7&theme=algolia" alt="yunwoong7"/></a></p>
 
 ## 💻 GitHub Profile Stats:
 
