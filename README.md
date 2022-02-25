@@ -16,7 +16,7 @@
 	<a href="https://github.com/yunwoong7"><img alt="yunwoong7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yunwoong7&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
 <br/><br/>
   &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yunwoong7&show_icons=true&locale=en&layout=compact&theme=dark" alt="yunwoong7" height="192px"/>
+<a href="https://github.com/yunwoong7"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yunwoong7&show_icons=true&locale=en&layout=compact&theme=dark" alt="yunwoong7" height="192px"/></a>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
