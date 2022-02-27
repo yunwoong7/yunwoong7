@@ -23,7 +23,7 @@
 
 ## ⚡ GitHub Activity Graph:
   <br/>
-   <a href="https://github.com/yunwoong7"><img alt="yunwoong7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yunwoong7&custom_title=yunwoong7's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/yunwoong7"><img alt="yunwoong7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yunwoong7&custom_title=yunwoong7's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -67,7 +67,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white">
  </p>
  
- ### 👉Graphic Designing
+### 👉Graphic Designing
 <p align="left">
   &emsp;
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white"/> 
@@ -89,17 +89,3 @@
 	<a href="https://github.com/yunwoong7"><img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/%EC%9C%A4%EC%9B%85-%EA%B9%80-17832919a"><img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/></a>
 </p>
-<!--
-**yunwoong7/yunwoong7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
