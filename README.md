@@ -67,7 +67,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white">
  </p>
  
-### 👉Graphic Designing
+### 👉 Graphic Designing
 <p align="left">
   &emsp;
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white"/> 
