@@ -5,6 +5,7 @@
 <hr/>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=yunwoong7&label=Profile%20views&color=0e75b6&style=plastic" alt="yunwoong7" /> </div>
+My name is Yunwoong, and I am a software developer. I have a strong passion for technology and enjoy learning new things to solve problems. I am also dedicated to daily study and research in order to improve my skills and stay up-to-date with the latest developments in the field. I am always looking for new challenges and opportunities to grow as a developer.
 
 ## ✨ Streak Stats
 <p align="center"><a href="https://github.com/yunwoong7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yunwoong7&theme=dark" alt="yunwoong7"/></a></p>
