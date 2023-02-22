@@ -58,7 +58,7 @@ My name is Yunwoong, and I am a software developer. I have a strong passion for 
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Databases & Cloud Hosting 
 <p align="left">
   &emsp;
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?logo=oracle&logoColor=white"/>
