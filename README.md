@@ -8,16 +8,16 @@
 My name is Yunwoong, and I am a software developer. I have a strong passion for technology and enjoy learning new things to solve problems. I am also dedicated to daily study and research in order to improve my skills and stay up-to-date with the latest developments in the field. I am always looking for new challenges and opportunities to grow as a developer.
 
 ## ✨ Streak Stats
-<p align="center"><a href="https://github.com/yunwoong7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yunwoong7&theme=dark" alt="yunwoong7"/></a></p>
+<p align="center"><a href="https://yunwoong.tistory.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yunwoong7&theme=dark" alt="yunwoong7"/></a></p>
 
 ## 💻 GitHub Profile Stats:
 
   <br/>
   <p align="center">
-	<a href="https://github.com/yunwoong7"><img alt="yunwoong7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yunwoong7&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
+	<a href="https://yunwoong.tistory.com"><img alt="yunwoong7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yunwoong7&show_icons=true&count_private=true&theme=dark" height="192px"/></a>
 <br/><br/>
   &nbsp;
-<a href="https://github.com/yunwoong7"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yunwoong7&show_icons=true&locale=en&layout=compact&theme=dark" alt="yunwoong7" height="192px"/></a>
+<a href="https://yunwoong.tistory.com"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yunwoong7&show_icons=true&locale=en&layout=compact&theme=dark" alt="yunwoong7" height="192px"/></a>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
