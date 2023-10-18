@@ -24,7 +24,7 @@ My name is Yunwoong, and I am a software developer. I have a strong passion for 
 
 ## ⚡ GitHub Activity Graph:
   <br/>
-<a href="https://github.com/yunwoong7"><img alt="yunwoong7's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=yunwoong7&theme=react-dark" /></a>
+<a href="https://github.com/yunwoong7"><img alt="yunwoong7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yunwoong7&theme=react-dark" /></a>
   <br/>
 
 
